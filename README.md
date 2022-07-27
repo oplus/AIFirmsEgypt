@@ -1,12 +1,3 @@
-# AI/ML Driven Companies In Egypt
-
-This repository is intented to aid aspiring AI/ML enthusiasts by providing a list of companies working in such fields. However, this is a mere starting point, you need to put in your own work and lookup companies thoroughly to grasp the underlying tech used.   
-
-     
-
-[AI-Driven-Companies-in-Egypt](https://www.quora.com/q/myinterviewsexperiencein/AI-Driven-Companies-in-Egypt)
-
-> if you want to learn more about the requirements for the AI/Data science related positions in these companies, then simply Google "Careers in [Company name]" and you will find a lot of posts, this can somehow tell you what are the requirements they need really.
 
 | Company | Domain |  
 | --- | --- |
@@ -115,9 +106,3 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [blnk.ai](https://www.blnk.ai/) | Machine Learning | 
 | [Aimtechnologies](https://www.aimtechnologies.co/) | Data Science, Machine Learning |
 
-## Additional Resources
-
-Use [Stackinfo](http://stackinfo.me/) to look up companies per technology.
-
-## Credits
-This repository is nothing but a humble continuation of the [great work](https://www.quora.com/q/myinterviewsexperiencein/AI-Driven-Companies-in-Egypt) done by [Abdelrahman Radwan](https://www.linkedin.com/in/abdelrahman-hamdy-radwan/). And thanks to [Ibrahim Sharaf](https://www.linkedin.com/in/ibrahimsharafelden/) for pointing out the Quora article. ;)
